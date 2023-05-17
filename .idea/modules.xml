@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array_Excercise/Array_Excercise.iml" filepath="$PROJECT_DIR$/Array_Excercise/Array_Excercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Programming Concepts/Basic Programming Concepts.iml" filepath="$PROJECT_DIR$/Basic Programming Concepts/Basic Programming Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interest_Calculator/Interest_Calculator.iml" filepath="$PROJECT_DIR$/Interest_Calculator/Interest_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lucky Sevens/Lucky Sevens.iml" filepath="$PROJECT_DIR$/Lucky Sevens/Lucky Sevens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory_Assessment_JavaBasics/Mandatory_Assessment_JavaBasics.iml" filepath="$PROJECT_DIR$/Mandatory_Assessment_JavaBasics/Mandatory_Assessment_JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory_Assessment_JavaClassObjects/Mandatory_Assessment_JavaClassObjects.iml" filepath="$PROJECT_DIR$/Mandatory_Assessment_JavaClassObjects/Mandatory_Assessment_JavaClassObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mandatory_assignment_java_classobject-ReinaSparklechu.iml" filepath="$PROJECT_DIR$/.idea/mandatory_assignment_java_classobject-ReinaSparklechu.iml" />
+    </modules>
+  </component>
+</project>

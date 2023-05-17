@@ -126,7 +126,7 @@ public class DVDLibraryController {
                     "7) Done";
             while(!done){
                 view.displayMessage(editMenu);
-                view.getInput("Please enter your selection");
+                selection = Integer.valueOf(view.getInput("Please enter your selection"));
                 switch (selection){
                     case 1:
                         String oldTitle = dvd.getTitle();
@@ -159,6 +159,7 @@ public class DVDLibraryController {
                     case 7:
                         dao.save(dvd);
                         view.displayMessage("DVD has been saved to library");
+                        done=true;
                         break;
                     default:
                         view.displayMessage("Invalid option");
